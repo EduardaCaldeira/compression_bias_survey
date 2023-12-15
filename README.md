@@ -7,7 +7,7 @@ Official repository for the paper "Unriddling Compression-Induced Biases in Biom
 The development of deep learning algorithms has extensively empowered humanity's task automatization capacity. However, the huge improvement in the performance of these models is highly correlated with their increasing level of complexity, limiting their usefulness in human-oriented applications, which are usually deployed in resource-constrained devices. This led to the development of compression techniques that drastically reduce the computational and memory costs of deep learning models without significant performance degradation. Nonetheless, the analysis of the consequences of compression is generally superficial, as emphasis is usually only given to its impact on global performance. In particular, the study of compression's influence on model bias has been widely neglected by the DL community. This paper aims to overcome this gap by presenting a comprehensive survey of current model compression techniques and their impact on model bias in biometrics applications. Apart from a literature systematization on quantization, knowledge distillation and pruning, we conduct a critical analysis of their comparative value while highlighting the need to direct compression research towards model fairness in future works.
 
 ## Quantization:
-<img src="quantization.png" width="500" align="right"> 
+<img src="quantization.png" width="400" align="right"> 
 
 * Biometrics
     - Sub-byte quantization of mobile face recognition convolutional neural network
@@ -24,7 +24,7 @@ The development of deep learning algorithms has extensively empowered humanity's
 
 
 ## Knowledge Distillation
-<img src="KD.png" width="500" align="right"> 
+<img src="KD.png" width="400" align="right"> 
 
 * Biometrics
     - Face model compression by distilling knowledge from neurons
