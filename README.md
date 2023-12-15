@@ -7,6 +7,8 @@ Official repository for the paper "Unriddling Compression-Induced Biases in Biom
 The development of deep learning algorithms has extensively empowered humanity's task automatization capacity. However, the huge improvement in the performance of these models is highly correlated with their increasing level of complexity, limiting their usefulness in human-oriented applications, which are usually deployed in resource-constrained devices. This led to the development of compression techniques that drastically reduce the computational and memory costs of deep learning models without significant performance degradation. Nonetheless, the analysis of the consequences of compression is generally superficial, as emphasis is usually only given to its impact on global performance. In particular, the study of compression's influence on model bias has been widely neglected by the DL community. This paper aims to overcome this gap by presenting a comprehensive survey of current model compression techniques and their impact on model bias in biometrics applications. Apart from a literature systematization on quantization, knowledge distillation and pruning, we conduct a critical analysis of their comparative value while highlighting the need to direct compression research towards model fairness in future works.
 
 ## Quantization:
+<img src="quantization.png" width="500" align="right"> 
+
 * Biometrics
     - Sub-byte quantization of mobile face recognition convolutional neural network
     - [Lightweight periocular recognition through low-bit quantization](https://github.com/jankolf/ijcb-periocular-quantization)
@@ -19,10 +21,11 @@ The development of deep learning algorithms has extensively empowered humanity's
     - Mr.biq: Post-training non-uniform quantization based on minimizing the reconstruction error
     - [Learnable lookup table for neural network quantization](https://github.com/The-Learning-And-Vision-Atelier-LAVA/LLT)
     - A neural network compression method based on knowledge-distillation and parameter quantization for the bearing fault diagnosis
- 
-<img src="quantization.png" align="center"> 
+
 
 ## Knowledge Distillation
+<img src="KD.png" width="500" align="right"> 
+
 * Biometrics
     - Face model compression by distilling knowledge from neurons
     - Low-resolution face recognition in the wild via selective knowledge distillation
@@ -43,9 +46,9 @@ The development of deep learning algorithms has extensively empowered humanity's
     - Privileged knowledge distillation for dimensional emotion recognition in the wild
     - [Unveiling the two-faced truth: Disentangling morphed identities for face morphing detection](https://github.com/NetoPedro/IDistill)
 
-<img src="KD.png" width=500 align="center"> 
-
 ## Pruning
+<img src="pruning.png" width="400" align="right"> 
+
 * Biometrics
     - Channel-level acceleration of deep face representations
     - Graph-based dynamic ensemble pruning for facial expression recognition
@@ -60,5 +63,6 @@ The development of deep learning algorithms has extensively empowered humanity's
     - The lottery ticket hypothesis: Finding sparse, trainable neural networks
     - Nisp: Pruning networks using neuron importance score propagation
     - [Snip: Single-shot network pruning based on connection sensitivity](https://github.com/namhoonlee/snip-public)
-      
-<img src="pruning.png" align="center"> 
+ 
+## Citation
+If you use our code or data in your research, please cite with:
