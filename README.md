@@ -43,7 +43,7 @@ The development of deep learning algorithms has extensively empowered humanity's
     - Privileged knowledge distillation for dimensional emotion recognition in the wild
     - [Unveiling the two-faced truth: Disentangling morphed identities for face morphing detection](https://github.com/NetoPedro/IDistill)
 
-<img src="KD.png" align="center"> 
+<img src="KD.png" width=500 align="center"> 
 
 ## Pruning
 * Biometrics
