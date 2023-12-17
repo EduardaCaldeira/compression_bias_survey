@@ -1,5 +1,3 @@
-# compression_bias_survey
-
 # Unriddling Compression-Induced Biases in Biometrics Applications: A Survey
 Official repository for the paper "Unriddling Compression-Induced Biases in Biometrics Applications: A Survey".
 
