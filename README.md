@@ -11,6 +11,7 @@ The development of deep learning algorithms has extensively empowered humanity's
     - Sub-byte quantization of mobile face recognition convolutional neural network
     - [Lightweight periocular recognition through low-bit quantization](https://github.com/jankolf/ijcb-periocular-quantization)
     - [Quantface: Towards lightweight face recognition by synthetic data low-bit quantization](https://github.com/fdbtrs/QuantFace)
+    - [SyPer: Synthetic periocular data for quantized light-weight recognition in the NIR and visible domains](https://github.com/jankolf/SyPer)
 
 * Computer Vision
     - [Incremental network quantization: Towards lossless cnns with lowprecision weights](https://github.com/AojunZhou/Incremental-Network-Quantization)
