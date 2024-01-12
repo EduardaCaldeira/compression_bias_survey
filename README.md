@@ -1,5 +1,5 @@
 # Unriddling Compression-Induced Biases in Biometrics Applications: A Survey
-Official repository for the paper "Unriddling Compression-Induced Biases in Biometrics Applications: A Survey".
+Official repository for the paper "Model Compression in Biometrics Applications: A Survey".
 
 ## Abstract
 The development of deep learning algorithms has extensively empowered humanity's task automatization capacity. However, the huge improvement in the performance of these models is highly correlated with their increasing level of complexity, limiting their usefulness in human-oriented applications, which are usually deployed in resource-constrained devices. This led to the development of compression techniques that drastically reduce the computational and memory costs of deep learning models without significant performance degradation. Nonetheless, the analysis of the consequences of compression is generally superficial, as emphasis is usually only given to its impact on global performance. In particular, the study of compression's influence on model bias has been widely neglected by the DL community. This paper aims to overcome this gap by presenting a comprehensive survey of current model compression techniques and their impact on model bias in biometrics applications. Apart from a literature systematization on quantization, knowledge distillation and pruning, we conduct a critical analysis of their comparative value while highlighting the need to direct compression research towards model fairness in future works.
@@ -53,7 +53,6 @@ The development of deep learning algorithms has extensively empowered humanity's
     - Channel-level acceleration of deep face representations
     - Graph-based dynamic ensemble pruning for facial expression recognition
     - [Discrimination-aware network pruning for deep model compression](https://github.com/SCUT-AILab/DCP)
-    - [Fairgrape: Fairnessaware gradient pruning method for face attribute classification](https://github.com/Bernardo1998/FairGRAPE)
     - Squeezerfacenet: Reducing a small face recognition cnn even more via filter pruning
     - Ipad: Iterative pruning with activation deviation for sclera biometrics
 
@@ -63,6 +62,14 @@ The development of deep learning algorithms has extensively empowered humanity's
     - The lottery ticket hypothesis: Finding sparse, trainable neural networks
     - Nisp: Pruning networks using neuron importance score propagation
     - [Snip: Single-shot network pruning based on connection sensitivity](https://github.com/namhoonlee/snip-public)
+
+## Compression-induced Bias
+* Biometrics
+    - [The effect of model compression on fairness in facial expression recognition](https://github.com/samuilstoychev/model-compression-fer)
+    - Prune responsibly
+    - [Simon says: Evaluating and mitigating bias in pruned neural networks with knowledge distillation](https://github.com/codestar12/pruning-distilation-bias)
+    - Compressed models decompress race biases: What quantized models forget for fair face recognition
+    - [Fairgrape: Fairnessaware gradient pruning method for face attribute classification](https://github.com/Bernardo1998/FairGRAPE)
  
 ## Citation
 If you use our code or data in your research, please cite with:
