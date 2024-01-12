@@ -1,4 +1,4 @@
-# Unriddling Compression-Induced Biases in Biometrics Applications: A Survey
+# Model Compression in Biometrics Applications: A Survey
 Official repository for the paper "Model Compression in Biometrics Applications: A Survey".
 
 ## Abstract
