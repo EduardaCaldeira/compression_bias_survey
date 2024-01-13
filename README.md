@@ -68,5 +68,5 @@ The development of deep learning algorithms has extensively empowered humanity's
     - [The effect of model compression on fairness in facial expression recognition](https://github.com/samuilstoychev/model-compression-fer)
     - Prune responsibly
     - [Simon says: Evaluating and mitigating bias in pruned neural networks with knowledge distillation](https://github.com/codestar12/pruning-distilation-bias)
-    - Compressed models decompress race biases: What quantized models forget for fair face recognition
+    - [Compressed models decompress race biases: What quantized models forget for fair face recognition](https://github.com/NetoPedro/Quantization-and-Racial-Bias/tree/main)
     - [Fairgrape: Fairnessaware gradient pruning method for face attribute classification](https://github.com/Bernardo1998/FairGRAPE)
