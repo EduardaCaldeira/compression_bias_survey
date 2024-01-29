@@ -22,7 +22,6 @@ The development of deep learning algorithms has extensively empowered humanity's
     - [Learnable lookup table for neural network quantization](https://github.com/The-Learning-And-Vision-Atelier-LAVA/LLT)
     - A neural network compression method based on knowledge-distillation and parameter quantization for the bearing fault diagnosis
 
-
 ## Knowledge Distillation
 <img src="KD.png" width="400" align="right"> 
 
@@ -72,3 +71,16 @@ The development of deep learning algorithms has extensively empowered humanity's
     - Prune responsibly
     - [Bias in Pruned Vision Models: In-Depth Analysis and Countermeasures](https://github.com/IST-DASLab/pruned-vision-model-bias)
     - [Fairgrape: Fairnessaware gradient pruning method for face attribute classification](https://github.com/Bernardo1998/FairGRAPE)
+
+
+## Citation
+If you use our work in your research, please cite with:
+
+```bibtex
+@article{caldeira2024model,
+  title={Model Compression Techniques in Biometrics Applications: A Survey},
+  author={Caldeira, Eduarda and Neto, Pedro C and Huber, Marco and Damer, Naser and Sequeira, Ana F},
+  journal={arXiv preprint arXiv:2401.10139},
+  year={2024}
+}
+```
