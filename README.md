@@ -21,6 +21,8 @@ The development of deep learning algorithms has extensively empowered humanity's
     - Mr.biq: Post-training non-uniform quantization based on minimizing the reconstruction error
     - [Learnable lookup table for neural network quantization](https://github.com/The-Learning-And-Vision-Atelier-LAVA/LLT)
     - A neural network compression method based on knowledge-distillation and parameter quantization for the bearing fault diagnosis
+    - [Towards Feature Distribution Alignment and Diversity Enhancement for Data-Free Quantization](https://github.com/DiamondSheep/ClusterQ)
+    - Long-Range Zero-Shot Generative Deep Network Quantization
 
 ## Knowledge Distillation
 <img src="KD.png" width="400" align="right"> 
