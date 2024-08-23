@@ -46,6 +46,7 @@ The development of deep learning algorithms has extensively empowered humanity's
     - Probabilistic knowledge distillation of face ensembles
     - Privileged knowledge distillation for dimensional emotion recognition in the wild
     - [Unveiling the two-faced truth: Disentangling morphed identities for face morphing detection](https://github.com/NetoPedro/IDistill)
+    - [AdaDistill: Adaptive Knowledge Distillation for Deep Face Recognition](https://github.com/fdbtrs/AdaDistill)
 
 ## Pruning
 <img src="pruning.png" width="400" align="right"> 
