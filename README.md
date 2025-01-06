@@ -80,10 +80,16 @@ The development of deep learning algorithms has extensively empowered humanity's
 If you use our work in your research, please cite with:
 
 ```bibtex
-@article{caldeira2024model,
-  title={Model Compression Techniques in Biometrics Applications: A Survey},
-  author={Caldeira, Eduarda and Neto, Pedro C and Huber, Marco and Damer, Naser and Sequeira, Ana F},
-  journal={arXiv preprint arXiv:2401.10139},
-  year={2024}
+@article{DBLP:journals/inffus/CaldeiraNHDS25,
+  author       = {Eduarda Caldeira and
+                  Pedro C. Neto and
+                  Marco Huber and
+                  Naser Damer and
+                  Ana Filipa Sequeira},
+  title        = {Model compression techniques in biometrics applications: {A} survey},
+  journal      = {Inf. Fusion},
+  volume       = {114},
+  pages        = {102657},
+  year         = {2025}
 }
 ```
